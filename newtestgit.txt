@@ -1,1 +1,2 @@
 hello learning git from beginning
+making changes to learn git
